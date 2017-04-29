@@ -1,0 +1,6 @@
+Envio em anexo a informação para o vosso relatório:
+Os espectros estão no ficheiro zip e só precisam de usar um dos detectores: ADC RBS1 (espectros começados por 1), ADC RBS2 (espectros começados por 2), ADC ERD (espectros começados por 3).
+O espectro 04 é o de calibração o or foi obtido com o feixe perpendicular à superfície e o espctero 6 com um angulo de 25º.
+Qualquer dúvida estou à vossa disposição.
+Eduardo Alves
+PS. não liguem aos espectros que vão a mais no ficheiro (é outra guerra!)'
