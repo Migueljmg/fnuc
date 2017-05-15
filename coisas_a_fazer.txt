@@ -1,0 +1,2 @@
+- Erro estranho no F para o calculo das areas
+- Calcular secçoes eficazes
